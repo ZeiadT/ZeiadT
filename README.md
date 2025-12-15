@@ -1,27 +1,25 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
-###
+
+### 🛠️ Technologies & Tools 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
+  <img src="https://github.com/user-attachments/assets/15a3458c-67da-4831-b8b0-c267e73c0db0" height="40" alt="Android logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
+  <img src="https://github.com/user-attachments/assets/db4c14fe-ef07-46d4-b36f-e6967c0d8651" height="40" alt="Kotlin logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
+  <img src="https://github.com/user-attachments/assets/1d705d8f-e1f6-47f0-a0ec-920d4a6d85b4" height="40" alt="Java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo" />
+  <img src="https://github.com/user-attachments/assets/64969cf6-85b6-4c82-b086-c38ce8a0ce4b" height="40" alt="Compose logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo" />
+  <img src="https://github.com/user-attachments/assets/3849155b-20ff-4e3d-8c2a-1ac783ee9d94" height="40" alt="Postman logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo" />
+  <img src="https://github.com/user-attachments/assets/b2cb3058-e15c-4cde-9c75-b337c7e18e63" height="40" alt="Android Studio"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo" />
+  <img src="https://github.com/user-attachments/assets/5de81cc8-9fc1-4153-819d-3865ef0207e1" height="40" alt="Firebase logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo" />
+  <img src="https://github.com/user-attachments/assets/c2a88203-f65e-43df-8fc6-8883ac79fb20" height="40" alt="Figma logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
 </div>
 
 ###
