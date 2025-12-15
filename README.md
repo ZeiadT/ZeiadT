@@ -1,6 +1,29 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<a href="https://www.linkedin.com/in/abdallah-elsobky-5150701a6/">
+    <img align="right" height="300" src="https://github.com/user-attachments/assets/75069a18-cda4-43c1-a571-57b3a6a2b89d" />
+</a>
 
+### Hi there 👋
 
+I'm a Software Engineering student with a passion for Android development.
+
+🔭 I’m currently focused on building modern, user-friendly Android apps using Kotlin.
+
+🌱 I’m exploring advanced topics in mobile architecture, performance optimization, and backend integration.
+
+👯 I’m looking to collaborate on open-source Android projects and contribute to impactful mobile solutions.
+
+- 📫 How to reach me:
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-elsobky-5150701a6/)
+  <img width="12" />
+  [!["Portfolio"](https://img.shields.io/badge/Portfolio-blue?style=flat&logo=dev.to&labelColor=0D47A1)](https://abdullah-elsobky.web.app)
+  <img width="12" />
+  [!["Facebook"](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&labelColor=blue)](https://www.facebook.com/profile.php?id=100014756283139)
+  <img width="12" />
+  [!["Youtube"](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&labelColor=red)](https://www.youtube.com/@Abdallah_Elsobky)
+  <img width="12" />
+  [!["Follow me on X"](https://img.shields.io/twitter/follow/AbdallahElsobk4?label=Follow%20me)](https://x.com/AbdallahElsobk4)
+  
 ### 🛠️ Technologies & Tools 
 
 <div align="center">
