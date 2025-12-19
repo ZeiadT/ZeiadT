@@ -4,32 +4,25 @@
 
 ### Hi there 👋
 
-I'm a Software Engineering student with a passion for Android development.
+I'm a Software Engineering with a passion for Mobile Applications development.
 
-🔭 I’m currently focused on building modern, user-friendly Android apps using Kotlin.
+🔭 I’m currently focused on building Optimized Mobile apps with Clean Architecture using Flutter.
 
-🌱 I’m exploring advanced topics in mobile architecture, performance optimization, and backend integration.
+🌱 I’m exploring Native Android Applications Development using Java.
 
-👯 I’m looking to collaborate on open-source Android projects and contribute to impactful mobile solutions.
+👯 I’m looking to collaborate on open-source Android/Flutter projects and contribute to impactful mobile solutions.
 
 - 📫 How to reach me:
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-elsobky-5150701a6/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeiad-mohammed)
   <img width="12" />
-  [!["Portfolio"](https://img.shields.io/badge/Portfolio-blue?style=flat&logo=dev.to&labelColor=0D47A1)](https://abdullah-elsobky.web.app)
-  <img width="12" />
-  [!["Facebook"](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&labelColor=blue)](https://www.facebook.com/profile.php?id=100014756283139)
-  <img width="12" />
-  [!["Youtube"](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&labelColor=red)](https://www.youtube.com/@Abdallah_Elsobky)
-  <img width="12" />
-  [!["Follow me on X"](https://img.shields.io/twitter/follow/AbdallahElsobk4?label=Follow%20me)](https://x.com/AbdallahElsobk4)
   
 ### 🛠️ Technologies & Tools 
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/15a3458c-67da-4831-b8b0-c267e73c0db0" height="40" alt="Android logo"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/db4c14fe-ef07-46d4-b36f-e6967c0d8651" height="40" alt="Kotlin logo"  />
+  <img src="https://github.com/user-attachments/assets/15a3458c-67da-4831-b8b0-c267e73c0db0" height="40" alt="Android logo"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/1d705d8f-e1f6-47f0-a0ec-920d4a6d85b4" height="40" alt="Java logo"  />
   <img width="12" />
