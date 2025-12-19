@@ -16,14 +16,6 @@ I'm a Software Engineering with a passion for Mobile Applications development.
 ### 🛠️ Technologies & Tools 
 
 <div align="center">
-      <a href="https://skillicons.dev">
-        <img align="center" src="https://skillicons.dev/icons?i=flutter,dart,java,androidstudio,figma,git,postman" />
-      </a>
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/zeiad-mohammed" target="_blank">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
@@ -31,6 +23,15 @@ I'm a Software Engineering with a passion for Mobile Applications development.
       <img src="https://img.shields.io/static/v1?message=Email%20Me&logo=Email%20Me&color=ff4b33&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
+
+###
+
+<div align="center">
+      <a href="https://skillicons.dev">
+        <img align="center" src="https://skillicons.dev/icons?i=flutter,dart,java,androidstudio,figma,git,postman" />
+      </a>
+</div>
+
 
 ###
 
