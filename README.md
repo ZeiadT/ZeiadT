@@ -1,6 +1,6 @@
-<a href="https://www.linkedin.com/in/abdallah-elsobky-5150701a6/">
+<div>
     <img align="right" height="300" src="https://github.com/user-attachments/assets/75069a18-cda4-43c1-a571-57b3a6a2b89d" />
-</a>
+</div>
 
 ### Hi there 👋
 
@@ -15,9 +15,9 @@ I'm a Software Engineering with a passion for Mobile Applications development.
 
 ### 🛠️ Technologies & Tools 
 
-<div>
+<div align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=flutter,dart,java,androidstudio,figma,git,postman" />
+        <img align="center" src="https://skillicons.dev/icons?i=flutter,dart,java,androidstudio,figma,git,postman" />
       </a>
 </div>
 
