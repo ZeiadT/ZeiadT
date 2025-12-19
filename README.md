@@ -15,11 +15,13 @@ I'm a Software Engineering with a passion for Mobile Applications development.
 
 ### 🛠️ Technologies & Tools 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,java,androidstudio,figma,git,postman" />
-  </a>
-</p>
+<div align="center">
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=flutter,dart,java,androidstudio,figma,git,postman" />
+      </a>
+    </p>
+</div>
 
 ###
 
