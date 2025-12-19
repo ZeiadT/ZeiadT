@@ -34,6 +34,8 @@ I'm a Software Engineering with a passion for Mobile Applications development.
   </a>
 </div>
 
+<br />
+
 ###
 
 <div align="center">
