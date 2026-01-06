@@ -36,14 +36,6 @@ I'm a Software Engineering with a passion for Mobile Applications development.
 
 <br />
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ZeiadT&theme=dracula&border_radius=5" height="150" />
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/ZeiadT/ZeiadT/output/pacman-contribution-graph-dark.svg">
