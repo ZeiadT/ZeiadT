@@ -4,13 +4,13 @@
 
 ### Hi there 👋
 
-I'm a Software Engineering with a passion for Mobile Applications development.
+I'm a Software Engineering with a passion for Mobile Applications development & Great UIUX Designs.
 
-🔭 I’m currently focused on building Optimized Mobile apps with Clean Architecture using Flutter.
+🔭 I’m currently focused on building Optimized Android apps with Clean Architecture using Kotlin/Compose.
 
-🌱 I’m exploring Native Android Applications Development using Java.
+🌱 I’m exploring Multiplatform Applications Development using KMP.
 
-👯 I’m looking to collaborate on open-source Android/Flutter projects and contribute to impactful mobile solutions.
+👯 I’m looking to collaborate on open-source Mobile projects and contribute to impactful mobile solutions.
 
 <br />
 
